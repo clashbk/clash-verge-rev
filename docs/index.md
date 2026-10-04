@@ -1,6 +1,6 @@
 # Clash Verge Rev 官网
 
-<img src="./assets/clashverge.png" alt="logo" style="zoom: 25%;" />
+![logo-resize-image](./assets/logo-resize-image.png)
 
 ## Clash Verge Rev官网导航
 

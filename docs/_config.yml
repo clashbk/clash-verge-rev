@@ -1,6 +1,6 @@
 # --- 网站基本信息 ---
 title: "Clash Verge Rev"           # 网站标题
-description: "Clash Verge Rev官网导航，Clash Verge Rev下载地址，Clash Verge Rev使用教程，Fclash免费节点" # 搜索引擎会抓取这段描述
+description: "Clash Verge Rev官网导航，Clash Verge Rev下载地址，Clash Verge Rev使用教程，Clash Verge Rev免费节点" # 搜索引擎会抓取这段描述
 remote_theme: pages-themes/slate  # 选择主题（slate 非常适合技术文档）
 
 # --- 链接与社交 ---
